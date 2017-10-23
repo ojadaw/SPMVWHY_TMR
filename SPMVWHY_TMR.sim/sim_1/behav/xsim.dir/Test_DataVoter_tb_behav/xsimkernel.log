@@ -1,0 +1,4 @@
+Running: xsim.dir/Test_DataVoter_tb_behav/xsimk.exe -simmode gui -wdb Test_DataVoter_tb_behav.wdb -simrunnum 0 -socket 51405
+Design successfully loaded
+Design Loading Memory Usage: 7100 KB (Peak: 7100 KB)
+Design Loading CPU Usage: 31 ms

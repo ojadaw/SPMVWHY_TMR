@@ -1,0 +1,4 @@
+Running: xsim.dir/CSR_Array_1tb_behav/xsimk.exe -simmode gui -wdb CSR_Array_1tb_behav.wdb -simrunnum 0 -socket 52204
+Design successfully loaded
+Design Loading Memory Usage: 6468 KB (Peak: 6468 KB)
+Design Loading CPU Usage: 62 ms

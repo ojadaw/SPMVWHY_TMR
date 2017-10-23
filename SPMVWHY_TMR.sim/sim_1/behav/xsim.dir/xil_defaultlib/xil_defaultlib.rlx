@@ -1,0 +1,12 @@
+0.6
+2017.2
+Jun 15 2017
+18:52:51
+C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sim_1/new/CSR_TMR_tb.vhd,1508718338,vhdl,,,,csr_tmr_tb,,,,,,,,
+C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/CSR_Array_1.vhd,1508707917,vhdl,,,,csr_array_1,,,,,,,,
+C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/CSR_Array_2.vhd,1508710912,vhdl,,,,csr_array_2,,,,,,,,
+C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/CSR_Array_3.vhd,1508715669,vhdl,,,,csr_array_3,,,,,,,,
+C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/CSR_TMR_WITH_VOTER.vhd,1508718307,vhdl,,,,csr_and_voters,,,,,,,,
+C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/Data_Voter.vhd,1508630863,vhdl,,,,data_voter,,,,,,,,
+C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/Index_Voter.vhd,1508629791,vhdl,,,,index_voter,,,,,,,,
+C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/Ptr_Voter.vhd,1508632909,vhdl,,,,ptr_voter,,,,,,,,

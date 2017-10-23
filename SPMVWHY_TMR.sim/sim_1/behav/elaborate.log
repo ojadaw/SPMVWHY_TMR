@@ -1,0 +1,23 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.2/bin/unwrapped/win64.o/xelab.exe -wto 67f6c56936d14d3982e39500fbfd780e --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot CSR_TMR_tb_behav xil_defaultlib.CSR_TMR_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_textio
+Compiling architecture behavioral of entity xil_defaultlib.CSR_Array_1 [csr_array_1_default]
+Compiling architecture behavioral of entity xil_defaultlib.CSR_Array_2 [csr_array_2_default]
+Compiling architecture behavioral of entity xil_defaultlib.CSR_Array_3 [csr_array_3_default]
+Compiling architecture behavioral of entity xil_defaultlib.Data_Voter [data_voter_default]
+Compiling architecture behavioral of entity xil_defaultlib.Index_Voter [index_voter_default]
+Compiling architecture behavioral of entity xil_defaultlib.Ptr_Voter [ptr_voter_default]
+Compiling architecture behavioral of entity xil_defaultlib.CSR_and_Voters [csr_and_voters_default]
+Compiling architecture test_this of entity xil_defaultlib.csr_tmr_tb
+Built simulation snapshot CSR_TMR_tb_behav

@@ -1,0 +1,16 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/CSR_Array_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CSR_Array_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/CSR_Array_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CSR_Array_2
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/CSR_Array_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CSR_Array_3
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/CSR_TMR_WITH_VOTER.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CSR_and_Voters
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/Data_Voter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Data_Voter
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/Index_Voter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Index_Voter
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sources_1/new/Ptr_Voter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Ptr_Voter
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ojadaw/Downloads/SpMV_RTL_FPGA/SPMVWHY_TMR/SPMVWHY_TMR.srcs/sim_1/new/CSR_TMR_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CSR_TMR_tb

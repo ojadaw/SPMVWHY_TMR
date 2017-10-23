@@ -1,0 +1,4 @@
+Running: xsim.dir/Test_PtrVoter_tb_behav/xsimk.exe -simmode gui -wdb Test_PtrVoter_tb_behav.wdb -simrunnum 0 -socket 51438
+Design successfully loaded
+Design Loading Memory Usage: 7088 KB (Peak: 7088 KB)
+Design Loading CPU Usage: 62 ms
