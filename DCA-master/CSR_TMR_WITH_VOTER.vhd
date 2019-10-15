@@ -26,7 +26,7 @@
 -- non-zeros (data) values from the sparse matrix (matrix shown below), the index column (lebeled index inthis code) of each non-zero 
 -- value from the matrix, and the potiner to the non-zero values. The pointer is calculated based on the CSR format. 
 -- Thus, let Ptr =  pointer, then 
---                Ptr = Ptr[i-1] + # of row for that non-zero value. 
+--                Ptr = Ptr[i-1] + # of non-zero value in the (i-1)th row. 
 -- Example:
 -- For a Sparse Matrix
 --                       - - - - -     - - - - - -                 
